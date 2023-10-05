@@ -1,10 +1,12 @@
-### Hi there 👋
+### “O homem não teria alcançado o possível se, repetidas vezes, não tivesse tentado o impossível” – Max Weber.  Eu Sou o Davi ! 👋
 
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafaelalexandrino&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=rafaelalexandrino&show_icons=true&theme=radical&layout=compact" />
- </div>
+<div>
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JFelsemburgh&show_icons=true&theme=vision-friendly-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JFelsemburgh&layout=donut)](https://github.com/JFelsemburgh/github-readme-stats&size_weight=0.5&count_weight=0.5&theme=vision-friendly-dark)
+
+</div>
  
  &nbsp;
  &nbsp;

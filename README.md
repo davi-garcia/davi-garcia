@@ -1,12 +1,5 @@
 ### “O homem não teria alcançado o possível se, repetidas vezes, não tivesse tentado o impossível” – Max Weber.  Eu Sou o Davi ! 👋
 
-
-<div>
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JFelsemburgh&show_icons=true&theme=vision-friendly-dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JFelsemburgh&layout=donut)](https://github.com/JFelsemburgh/github-readme-stats&size_weight=0.5&count_weight=0.5&theme=vision-friendly-dark)
-
-</div>
  
  &nbsp;
  &nbsp;
